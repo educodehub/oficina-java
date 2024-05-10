@@ -16,7 +16,7 @@ Faça um programa que leia as medidas da largura e comprimento de um terreno ret
 > Comprimento: 20.0
 > Valor do metro²: 100.00
  
-AREA = 300.00
+AREA = 240.00
 PRECO = 24000.00
 ```
 
@@ -25,7 +25,6 @@ PRECO = 24000.00
 ## Instruções para construir e rodar o script
 
 > [!TIP]
->
 > Antes de criarmos o arquivo do seu primeiro exercício, é importante que crie uma pasta destinada a guardar todos os seus programas e futuros projetos. Recomendamos que crie a pasta `ws-eclipse` no diretório `C:\Temp\`. Ao criar abra o seu eclipse e use a pasta que criou como **workspace** (área de trabalho). Isso irá ajudar a organizar todos os seu arquivos de exercícios desta oficina.
 
 Vamos agora seguir alguns passos para criarmos o projeto do seu primeiro exercício da Aula 01 de Java:
