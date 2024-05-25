@@ -1,4 +1,4 @@
-# Pós-aula - Aula 02 - Oficina de Java
+# Pós-aula - Aula 03 - Oficina de Java
 
 Bem-vindo ao seu material de pós-aula da nossa terceira aula de Java sobre Programação Orientada a Objetos. Aqui iremos recapitular alguns dos principais conceitos que vimos durante a aula.
 
