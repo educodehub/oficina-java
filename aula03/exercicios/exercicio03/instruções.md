@@ -75,11 +75,11 @@ Agora, vamos criar o programa seguindo estas etapas:
    - Selecione `New > Class`.
    - Nomeie a classe como **Program** e marque a opção `public static void main(String[] args)` antes de clicar em `Finish`.
 2. **Implementação da lógica:**
-   - Dentro da sua classe **ContaBanco** é onde você vai inserir toda a lógica de cadastro de uma nova conta bancária, bem como as operações de depósito e saque.
+   - Dentro da sua classe **ContaBanco** é onde você vai inserir os atributos que sua classe terá, os construtores para permitir a sua inicialização e as operações de depósito e saque.
    - Lembre-se de usar os métodos acessores e de definir seus atributos como `private`.
    - Implemente construtores padrão e parametrizado.
    - No seu método de depósito, implemente toda a lógica para esta ação. O mesmo vale para o saque. Lembre-se que se a quantia de saque for maior do que o saldo da conta, resulta numa operação inválida. No entanto, se o dinheiro for suficiente, o saque pode ser realizado, mesmo que a conta fique no vermelho por pagar taxa de R$ 5.00 em cada saque.
-   - Dentro da sua classe **Program** você deve implementar toda a lógica de criação do objeto **ContaBanco** bem como a verificação de um possível depósito inicial.
+   - Dentro da sua classe **Program**, é onde você vai inserir toda a lógica de criação de um novo objeto `ContaBanco`, bem como a verificação de um possível depósito inicial e a inicialização do seu objeto, usando consrutor parametrizado ou os métodos `setters`.
 3. **Entrada de dados:**
    - A sua entrada de dados deve ser feita usando o `Scanner` na classe **Program**.
    - Os dados recebidos serão usados para inicializar o seu objeto `ContaBanco`.
