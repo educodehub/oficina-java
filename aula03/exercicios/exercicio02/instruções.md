@@ -21,7 +21,7 @@ Seu objetivo é desenvolver um programa para gerenciar os dados de um funcionár
 
 > Entre com a porcentagem de aumento do salário: 10
 
-> Dados atualizados do funcionário: João da Silva, 3025.00
+> Dados atualizados do funcionário: João da Silva, 3050.00
 ```
 
 `// É isso, mãos na massa! É hora de codar!` 👨‍💻
